@@ -1,4 +1,4 @@
-# Simple-URL-shortener - Java
+# Simple URL shortener - Java
 
 A simple URL shortener that maps an URL address to a short code that is used to redirect to the orignal URL. 
 
