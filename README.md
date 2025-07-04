@@ -1,6 +1,6 @@
 # Simple URL shortener - Java
 
-A simple URL shortener that maps an URL address to a short code that is used to redirect to the orignal URL. 
+A simple URL shortener that maps an URL address to a short code that is used to redirect to the original URL. 
 
 - To create a new short code for a link: ```<URLShortener_url>/add?url=<your_url>```, example: ```localhost:8000/add?url=https://foobar.com/```
 - To access a website via short code: ```<URLShortener_url>/<short_code>```, example: ```localhost:8000/foobar0```
